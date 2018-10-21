@@ -30,4 +30,4 @@ _HTML and CSS_
 
 *Free to share*
 
-Copyright (c) 2016 **_Maxwell Dubin_**
+Copyright (c) 2018 **_Maxwell Dubin_**
