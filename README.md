@@ -2,7 +2,7 @@
 
 #### _A portfolio of webpage projects, 10/12/18_
 
-#### _maxdhs.github.io/portfolio_
+#### http://maxdhs.github.io/portfolio
 
 #### By _**Maxwell Dubin**_
 
